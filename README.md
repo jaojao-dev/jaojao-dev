@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou o João 👋
 
-<!--
-**jaojao-dev/jaojao-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor iniciante, apaixonado por tecnologia e programação. Estudo React, TypeScript e Node.js, e gosto de transformar ideias em projetos reais!
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo:
+- HTML, CSS, JavaScript
+- React, Vite, TypeScript
+- Node.js, Express
+- c#, unity
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projetos em destaque:
+
+
+## 💡 Sobre mim:
+Tenho 15 anos, sou autodidata e estou construindo meu caminho como freelancer e desenvolvedor fullstack. Sempre aberto a novos aprendizados!
+
+📫 Me chama: [joao21.donato@email.com]
