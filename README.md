@@ -14,5 +14,3 @@ Sou um desenvolvedor iniciante, apaixonado por tecnologia e programação. Estud
 
 ## 💡 Sobre mim:
 Tenho 15 anos, sou autodidata e estou construindo meu caminho como freelancer e desenvolvedor fullstack. Sempre aberto a novos aprendizados!
-
-📫 Me chama: [joao21.donato@email.com]
